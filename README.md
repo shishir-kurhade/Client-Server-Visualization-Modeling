@@ -12,7 +12,7 @@ Python 3
 python libraries needed for the server - flask_restful, sklearn, pandas, numpy,json, flask_cors,flask
 
 
-
+### Implementing
 Open python command prompt and navigate to the server folder and run 'python flask_roc.py'.
 
 Next, to setup the client, navigate to the client folder and start a local server using 'python -m http.server'.
