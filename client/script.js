@@ -13,8 +13,8 @@ var c = document.getElementById('c_id').value;
 var preprocessing = document.getElementById("preprocessing_id").value;
 
 	d3.select("svg").remove();
-var data = d3.json("http://127.0.0.1:5000/?preprocessing="+preprocessing+"&c="+c).then(function(data) {
-	console.log("http://127.0.0.1:5000/?preprocessing="+preprocessing+"&c="+c);
+var data = d3.json("http://localhost:5000/?preprocessing="+preprocessing+"&c="+c).then(function(data) {
+	console.log("http://localhost:5000/?preprocessing="+preprocessing+"&c="+c);
 	console.log(data);
 	
 var width = 700;
