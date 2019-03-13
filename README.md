@@ -9,7 +9,8 @@ Download the zip file from github and unzip it to a target folder.
 ### Prerequisites
 
 Python 3
-python libraries needed for the server - flask_restful, sklearn, pandas, numpy,json, flask_cors,flask
+python libraries needed to be installed on local machine for the server - flask_restful, sklearn, pandas, numpy,json, flask_cors,flask
+
 
 
 ### Implementing
