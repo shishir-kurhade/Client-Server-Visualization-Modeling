@@ -8,8 +8,8 @@ Download the zip file from github and unzip it to a target folder.
 
 ### Prerequisites
 
-Python 3
-python libraries needed to be installed on local machine for the server - flask_restful, sklearn, pandas, numpy,json, flask_cors,flask
+The server code is implemented in Python 3.
+python libraries needed to be installed on local machine for the server - flask_restful, sklearn, pandas, numpy, json, flask_cors, flask
 
 
 
@@ -30,7 +30,7 @@ Enter required parameters in the text box and click on 'visualize' to view the R
 
 ## Author
 
-* **Shishir Kurhade** - *Initial work* - [github](https://github.com/shishir-kurhade)
+* **Shishir Kurhade** - [github](https://github.com/shishir-kurhade)
 
 
 
