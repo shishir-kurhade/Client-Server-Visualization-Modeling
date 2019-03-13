@@ -1,7 +1,7 @@
 # DS 5500: Client-Server Visualization and Modeling
 
 
-This is an assignment for the DS 5500 assignment
+This is an assignment for the DS 5500 course
 
 ## Getting Started
 Download the zip file from github and unzip it to a target folder.
@@ -9,7 +9,8 @@ Download the zip file from github and unzip it to a target folder.
 ### Prerequisites
 
 The server code is implemented in Python 3.
-python libraries needed to be installed on local machine for the server - flask_restful, sklearn, pandas, numpy, json, flask_cors, flask
+
+Python libraries needed to be installed on local machine for the server - flask_restful, sklearn, pandas, numpy, json, flask_cors, flask
 
 
 
