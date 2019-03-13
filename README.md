@@ -13,12 +13,11 @@ python libraries needed for the server - flask_restful, sklearn, pandas, numpy,j
 
 
 
-### Installing
-
-open the downloaded folder and navigate to the server and run 'python flask_roc.py'. Next, to setup the client, navigate to the client folder and start a local server using 'python -m http.server'.
+Open python command prompt and navigate to the server folder and run 'python flask_roc.py'. Next, to setup the client, navigate to the client folder and start a local server using 'python -m http.server'.
 The client front end should open up in the browser at the new address of the python server. 
 The client routes all server requests to http://127.0.0.1:5000/. Make sure to change the address as per your server location in the script.js file.(within the d3.json command)
 
+Make sure that the client and server are running on two different servers.
 ## Running the tests
 
 Enter required parameters in the text box and click on 'visualize' to view the ROC- curve. Click on 'clear' to reset.
@@ -27,7 +26,10 @@ Enter required parameters in the text box and click on 'visualize' to view the R
 
 ## Author
 
-* **Shishir Kurhade** - *Initial work* - [PurpleBooth](https://github.com/shishir-kurhade)
+* **Shishir Kurhade** - *Initial work* - [github](https://github.com/shishir-kurhade)
+
+
+
 
 
 
